@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Carlos Perdomo, Bachelor in Systems Engineering and a major in Process Control. My experience include Industrial Automation, Data Engineering, SPSS, Networking, SCADA systems, PI System Osisoft and a little bit of MathLab. Project Management and ITSM.
+- 👋 Hi, I’m Carlos Perdomo, Bachelor in Systems Engineering and a major in Process Control. My experience include Industrial Automation, Data Engineering, SPSS, Networking, SCADA systems, PI System Osisoft and a little bit of MathLab. Over 10 years of experience in Project Management and ITSM Incident Management.
 - 👀 I’m interested in Data Analytic, Maching Learning with Python, and AI. Besides interested in Goland, RUST.
 - 🌱 I’m currently learning Maching Larning with Python and R, as well as Power BI, Pycaret, Dask, Apache Spark, Apache Storm, etc. etc.
 - 💞️ I’m looking to collaborate on any project related with ML as volunteer. 
